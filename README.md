@@ -1,0 +1,1 @@
+# -official-image-docker-pull-soxoj-maigret-usage-docker-run--v-mydir-app-reports-soxoj-maigret-
